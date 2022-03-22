@@ -2,6 +2,10 @@
 
 # 添加了本地网页demo，运行app.py
 
+### [Blog](https://ppphhhleo.github.io/2022/12/20/bot/)
+
+#### Cooperate with ***Three Baos***
+
 ## 项目描述
 
 -   项目基于GPT2的中文闲聊机器人，模型实现基于HuggingFace的transformers。
@@ -49,7 +53,7 @@ python3.6、 transformers==4.2.0、pytorch==1.7.0 Flask\>=0.11 chatterbot\>=0.7.
 
 预处理数据集：放入/data，[Google Drive train.pkl 下载](https://drive.google.com/file/d/1ywa2AC3MYTyBRVMakRvbDb4QDuVG0iIp/view?usp=sharing)
 
-原始数据集：[train.txt](https://drive.google.com/file/d/1MffA8QTINXsvfuLKkrPvT0lTu6dLfeiy/view?usp=sharing)
+原始数据集：[Google Drive train.txt 下载](https://drive.google.com/file/d/1MffA8QTINXsvfuLKkrPvT0lTu6dLfeiy/view?usp=sharing)
 
 训练模型：文件夹放入/model [Google Drive model 下载](https://drive.google.com/drive/folders/16vUse9qYPVXw501EDSRBNTG47v8H1Xdw?usp=sharing)
 
