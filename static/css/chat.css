@@ -1,0 +1,107 @@
+
+      h1 {
+        background-color: #f9b4ab;
+        display: inline-block;
+        font-size: 3em;
+        margin: 0;
+        padding: 14px;
+      }
+      h3 {
+        color: black;
+        font-size: 20px;
+        margin-top: 3px;
+        text-align: center;
+      }
+      #chatbox {
+	    margin-left: 40px;
+	    /* margin-right: 60px; */
+	    width: 88%;
+	    color: white;
+	    margin-top: 15px;
+
+	    /*border: 1px solid ;*/
+	}
+     
+     
+      #userInput {
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+        margin-top: 60px;
+      }
+      #textInput {
+	    width: 46%;
+	    background-color: #fbd3e9;
+	    border: none;
+	    border-radius: 3px;
+	    border-bottom: 2px solid #bb377d;
+	    font-family: monospace;
+	    font-size: 17px;
+	    margin-left: 240px;
+	    position: absolute;
+	    right: 6px;
+	    bottom: 9px;
+}
+      .userText {
+        color: white;
+        font-family: monospace;
+        font-size: 17px;
+        text-align: right;
+        line-height: 30px;
+      }
+      .userText span {
+        background-color: #2b5876;
+        padding: 10px;
+        border-radius: 17px;
+      }
+      .botText span {
+        background-color: #de6262;
+        padding: 10px;
+        border-radius: 17px;
+      }
+      .botText {
+        color: white;
+        font-family: monospace;
+        font-size: 17px;
+        text-align: left;
+        line-height: 30px;
+      }
+
+      #tidbit {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 300px;
+      }
+      .boxed {
+        margin-left: 10px;
+        margin-right: auto;
+        width: 100 %;
+        height:520px;
+        overflow-y: hidden;
+
+        
+      }
+      .boxed::-webkit-scrollbar {
+                display: none;
+                 width: 1em;
+          }
+      .boxed img{
+        position: relative;
+        width: 10%;
+        left: 0;
+        top:15px;
+      }
+     .boxed .slogon {
+        background-color: #de6262;
+        color:white;
+        position: relative;
+        width: 90%;
+        padding:8px;
+        right: 0;
+        top:0;
+        border-radius: 17px;
+      }
+      .box {
+        border: 2px solid black;
+      }
